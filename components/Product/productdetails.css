@@ -1,0 +1,12 @@
+.productDContainer{
+    display: flex;
+    width: 1000px;
+    margin: 50px auto;
+    box-shadow: 0 0 10px black;
+}
+.imageContainer{
+    width:500px;
+}
+.contentContainer{
+    margin:50px auto;
+}

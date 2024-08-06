@@ -1,0 +1,69 @@
+
+#nav{
+    border-bottom: 2px solid black;
+height: 80px;
+margin-top: 5px;
+}
+#search{
+   width: 200px;
+}
+#categories{
+    width: auto;
+    height: 80px;
+    background-color: black;
+    color: white;
+   
+}
+#black{
+    width: 100%;
+}
+#featured{
+    border: 2px solid beige;
+    width: 100%;
+    height: 600px;
+    border-radius: 30px;
+    background-color:white;
+    color:black;
+}
+#women-ethnic{
+    border-radius: 20px;
+    height: 500px;
+    background-color:white;
+    color:black;
+}
+#women-western{
+background-color:white;
+border-radius: 20px;
+    height: 500px;
+    color:black;
+}
+#jwellery{
+    background-color:white;
+    border-radius: 20px;
+        height: 400px; 
+        color:black; 
+}
+
+#footwear{
+    background-color:white;
+    border-radius: 20px;
+        height: 390px;  
+        color:black;
+}
+#footer{
+    background-color:black;
+    height: 400px;
+    width:0  auto;
+    border-top: 2px solid black;
+    color:white;
+}
+#f{
+    margin-left: 10px;
+}
+#insta{
+    margin-left: -20px;
+}
+#youtube{
+    margin-left: -20px;
+}
+

@@ -1,0 +1,18 @@
+#flex{
+ display: flex;
+ flex-direction: row;
+ width: 1000px;
+ height: 500px;
+ box-shadow:0 0 10px black;
+ margin:50px auto;
+}
+.imageCol{
+    width:40%;
+}
+.contentCol{
+    width:60%;
+    padding:40px;
+}
+.them{
+    margin:40px;
+}
